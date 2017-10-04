@@ -1,0 +1,25 @@
+.content{
+
+}
+
+.association_fields{
+	display: flex;
+
+    .labels{
+	    flex: 1 0 50%;
+	    text-align:right;
+        margin-right:5px;
+    }
+    .fields{
+	    flex: 1 0 50%;
+        text-align:left;
+    }
+}
+
+.function_wrap{
+    display: flex;
+}
+
+.function_group{
+    flex: 1 0 30%;
+}
